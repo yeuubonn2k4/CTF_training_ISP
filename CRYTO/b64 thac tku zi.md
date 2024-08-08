@@ -1,0 +1,189 @@
+UmVtZW1iZXIgd2hlbiB3ZSBmaXJzdCBtZXQ/
+WW91IHNhaWQgImxpZ2h0IG15IGNpZ2FyZXR0ZSJ=
+U28gSSBsaWVkIHRvIG15IG1vbSBhbmQgZGFk
+SSBqdW1wZWQgdGhlIGZlbmNlIGFuZCBJIHJhbi==
+QnV0IHdlIGNvdWxkbid0IGdvIHZlcnkgZmFy
+J0NhdXNlIHlvdSBsb2NrZWQgeW91ciBrZXlzIGluIHlvdXIgY2Fy
+U28geW91IHNhdCBhbmQgc3RhcmVkIGF0IG15IGxpcHN=
+QW5kIEkgY291bGQgYWxyZWFkeSBmZWVsIHlvdXIga2lzc1==
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtcz==
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3V=
+SGVhZGxpZ2h0cywgb24gbWV=
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZQ==
+Qmx1ZSBleWVzLCBibGFjayBqZWFuc0==
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3U=
+
+UmVtZW1iZXIgd2hlbiB5b3UgdGF1Z2h0IG1lIGZhdGX=
+U2FpZCBpdCdkIGFsbCBiZSB3b3J0aCB0aGUgd2FpdF==
+TGlrZSB0aGF0IG5pZ2h0IGluIHRoZSBiYWNrIG9mIHRoZSBjYWJ=
+V2hlbiB5b3VyIGZpbmdlcnMgd2Fsa2VkIGluIG15IGhhbmQ=
+TmV4dCBkYXksIG5vdGhpbicgb24gbXkgcGhvbmV=
+QnV0IEkgY2FuIHN0aWxsIHNtZWxsIHlvdSBvbiBteSBjbG90aGVz
+QWx3YXlzIGhvcGluZyB0aGluZ3Mgd291bGQgY2hhbmdl
+QnV0IHdlIHdlbnQgcmlnaHQgYmFjayB0byB5b3VyIGdhbWVz
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtcx==
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3W=
+SGVhZGxpZ2h0cywgb24gbWV=
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZe==
+Qmx1ZSBleWVzLCBibGFjayBqZWFuc9==
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3W=
+
+QW5kIGV2ZW4gaWYgSSBydW4gYXdhee==
+R2l2ZSBteSBoZWFydCBhIGhvbGlkYXl=
+U3RpbGwgc3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvdb==
+WW91IGFsd2F5cyBsZWF2ZSBtZSB3YW50aW5nIG1vcmX=
+SSBjYW4ndCBzaGFrZSBteSBodW5nZXIgZm9y
+U3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvdX==
+WWVhaCwgdGhleSBhbHdheXMgdGFzdGUgbGlrZSB5b3V=
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtc9==
+V2l0aCB0aGF0IHN1Z2FyIGFuZCBzbW9rZSByaW5nc3==
+QWx3YXlzIHRhc3RlIGxpa2UgeW91
+SGVhZGxpZ2h0cywgb24gbWUgKGFuZCBldmVuIGlmIEkgcnVuIGF3YXkp
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29sIChhbmQgZ2l2ZSBteSBoZWFydCBhIGhvbGlkYXkp
+U3RpbGwsIHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZd==
+Qmx1ZSBleWVzLCBibGFjayBqZWFucyAoeW91IGFsd2F5cyBsZWF2ZSBtZSB3YW50aW5nIG1vcmUp
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29sIChJIGNhbid0IHNoYWtlIG15IGh1bmdlciBmb3Ip
+U3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvde==
+
+UmVtZW1iZXIgd2hlbiB3ZSBmaXJzdCBtZXQ/
+WW91IHNhaWQgImxpZ2h0IG15IGNpZ2FyZXR0ZSJ=
+U28gSSBsaWVkIHRvIG15IG1vbSBhbmQgZGFk
+SSBqdW1wZWQgdGhlIGZlbmNlIGFuZCBJIHJhbm==
+QnV0IHdlIGNvdWxkbid0IGdvIHZlcnkgZmFy
+J0NhdXNlIHlvdSBsb2NrZWQgeW91ciBrZXlzIGluIHlvdXIgY2Fy
+U28geW91IHNhdCBhbmQgc3RhcmVkIGF0IG15IGxpcHP=
+QW5kIEkgY291bGQgYWxyZWFkeSBmZWVsIHlvdXIga2lzc9==
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtc9==
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3V=
+SGVhZGxpZ2h0cywgb24gbWV=
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZX==
+Qmx1ZSBleWVzLCBibGFjayBqZWFuc9==
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3W=
+
+UmVtZW1iZXIgd2hlbiB5b3UgdGF1Z2h0IG1lIGZhdGW=
+U2FpZCBpdCdkIGFsbCBiZSB3b3J0aCB0aGUgd2FpdN==
+TGlrZSB0aGF0IG5pZ2h0IGluIHRoZSBiYWNrIG9mIHRoZSBjYWK=
+V2hlbiB5b3VyIGZpbmdlcnMgd2Fsa2VkIGluIG15IGhhbmT=
+TmV4dCBkYXksIG5vdGhpbicgb24gbXkgcGhvbmW=
+QnV0IEkgY2FuIHN0aWxsIHNtZWxsIHlvdSBvbiBteSBjbG90aGVz
+QWx3YXlzIGhvcGluZyB0aGluZ3Mgd291bGQgY2hhbmdl
+QnV0IHdlIHdlbnQgcmlnaHQgYmFjayB0byB5b3VyIGdhbWVz
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtc2==
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3X=
+SGVhZGxpZ2h0cywgb24gbWX=
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZX==
+Qmx1ZSBleWVzLCBibGFjayBqZWFuc3==
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3V=
+
+QW5kIGV2ZW4gaWYgSSBydW4gYXdheX==
+R2l2ZSBteSBoZWFydCBhIGhvbGlkYXn=
+U3RpbGwgc3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvdX==
+WW91IGFsd2F5cyBsZWF2ZSBtZSB3YW50aW5nIG1vcmW=
+SSBjYW4ndCBzaGFrZSBteSBodW5nZXIgZm9y
+U3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvdV==
+WWVhaCwgdGhleSBhbHdheXMgdGFzdGUgbGlrZSB5b3W=
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtc/==
+V2l0aCB0aGF0IHN1Z2FyIGFuZCBzbW9rZSByaW5nc3==
+QWx3YXlzIHRhc3RlIGxpa2UgeW91
+SGVhZGxpZ2h0cywgb24gbWUgKGFuZCBldmVuIGlmIEkgcnVuIGF3YXkp
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29sIChhbmQgZ2l2ZSBteSBoZWFydCBhIGhvbGlkYXkp
+U3RpbGwsIHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZV==
+Qmx1ZSBleWVzLCBibGFjayBqZWFucyAoeW91IGFsd2F5cyBsZWF2ZSBtZSB3YW50aW5nIG1vcmUp
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29sIChJIGNhbid0IHNoYWtlIG15IGh1bmdlciBmb3Ip
+U3RyYXdiZXJyaWVzIGFuZCBjaWdhcmV0dGVzIGFsd2F5cyB0YXN0ZSBsaWtlIHlvdX==
+
+UmVtZW1iZXIgd2hlbiB3ZSBmaXJzdCBtZXQ/
+WW91IHNhaWQgImxpZ2h0IG15IGNpZ2FyZXR0ZSI=
+U28gSSBsaWVkIHRvIG15IG1vbSBhbmQgZGFk
+SSBqdW1wZWQgdGhlIGZlbmNlIGFuZCBJIHJhbp==
+QnV0IHdlIGNvdWxkbid0IGdvIHZlcnkgZmFy
+J0NhdXNlIHlvdSBsb2NrZWQgeW91ciBrZXlzIGluIHlvdXIgY2Fy
+U28geW91IHNhdCBhbmQgc3RhcmVkIGF0IG15IGxpcHN=
+QW5kIEkgY291bGQgYWxyZWFkeSBmZWVsIHlvdXIga2lzc/==
+
+TG9uZyBuaWdodHMsIGRheWRyZWFtc2==
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3U=
+SGVhZGxpZ2h0cywgb24gbWW=
+UmFjaW5nIHRvIDYwLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZT==
+Qmx1ZSBleWVzLCBibGFjayBqZWFuc2==
+TGlnaHRlcnMgYW5kIGNhbmR5LCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3U=
+
+UmVtZW1iZXIgd2hlbiB5b3UgdGF1Z2h0IG1lIGZhdGX=
+U2FpZCBpdCdkIGFsbCBiZSB3b3J0aCB0aGUgd2FpdE==
+TGlrZSB0aGF0IG5pZ2h0IGluIHRoZSBiYWNrIG9mIHRoZSBjYWJ=
+V2hlbiB5b3VyIGZpbmdlcnMgd2Fsa2VkIGluIG15IGhhbmT=
+TmV4dCBkYXksIG5vdGhpbicgb24gbXkgcGhvbmX=
+QnV0IEkgY2FuIHN0aWxsIHNtZWxsIHlvdSBvbiBteSBjbG90aGVz
+QWx3YXlzIGhvcGluZyB0aGluZ3Mgd291bGQgY2hhbmdl
+QnV0IHdlIHdlbnQgcmlnaHQgYmFjayB0byB5b3VyIGdhbWVz
+
+U3VnYXIgYW5kIHNtb2tlIHJpbmdzLCBJJ3ZlIGJlZW4gYSBmb29s
+QnV0IHN0cmF3YmVycmllcyBhbmQgY2lnYXJldHRlcyBhbHdheXMgdGFzdGUgbGlrZSB5b3V=
+
+## SOlve
+
+import base64
+
+
+def get_base64_diff_value(s1, s2):
+    base64chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+    for i in range(len(s2)):
+        if s1[i] != s2[i]:
+            return abs(base64chars.index(s1[i]) - base64chars.index(s2[i]))
+    return 0
+
+
+def solve_stego(stego_str_list):
+    bin_str = ''
+    for stego_str in stego_str_list:
+        stego_str = stego_str.replace('\n', '')
+        norm_str = base64.b64encode(base64.b64decode(stego_str)).decode()
+        diff = get_base64_diff_value(stego_str, norm_str)
+        pads_num = stego_str.count('=')
+        if pads_num > 0:
+            bin_str += bin(diff)[2:].zfill(pads_num * 2)
+
+    ret = b''
+    for i in range(0, len(bin_str), 8):
+        ret += int(bin_str[i:i + 8], 2).to_bytes(1, 'little')
+    return ret
+
+
+def main():
+    with open('strawberriesncigarettes.enc', 'rb') as fp:
+        file_lines = fp.readlines()
+    stego_str_list = []
+    for each in file_lines:
+        stego_str_list.append(each.decode().replace('\n', ''))
+    print(solve_stego(stego_str_list))
+
+
+if __name__ == '__main__':
+    main()
+
+- Flag
+
+`
+ISPCTF{now_you_know_your_b64}
+`
